@@ -1,0 +1,35 @@
+@media (max-width:1280px) {
+    .lh{
+        line-height: 1.2;
+    }
+    nav,.carousel{
+        opacity: 1;
+    }
+    .load{
+        display: none;
+    }
+    .load-img,.load-img2{
+        width: 150px;
+    }
+    .load-img-text{
+        width: 300px;
+    }
+    .ccc{
+        margin-left: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .eamil-box{
+        background-color: var(--bg--color1);
+        color: #fff;
+        color: #8c5819;
+    }
+    .body4-card{
+        width: 250px;
+        height: auto;
+    }
+    .robot-box{
+        right: 80px;
+    }
+}
